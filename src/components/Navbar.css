@@ -1,0 +1,27 @@
+.navbar1{
+    background-color: #333545;
+    display: flex;
+}
+.hello{
+    display: grid;
+  grid-template-columns: 50px 60px 110px 70px 60px 60px;
+}
+.nav-item0{
+    color: white;
+}
+.link {
+	text-decoration: none;
+	color: white;
+	margin: 10px;
+	opacity: .8;
+	font-weight: 400;
+}
+.secondNav {
+	background: rgb(127, 127, 127);
+	height: 45px;
+	padding: 0 80px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 16px;
+}

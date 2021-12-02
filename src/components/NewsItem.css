@@ -1,0 +1,16 @@
+.fullCard{
+    width: 300px;
+    flex-wrap: wrap;
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.2);
+
+}
+.yes{
+    background-color: green;
+}
+.cardMainBody{
+    background-color:pink;
+}
+.cardMainImg{
+    height: 200px;
+    width: 300px;
+}
